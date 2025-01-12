@@ -3,7 +3,7 @@
 ### 1.1. Basico Parte I
 ### 1.2. Basico Parte II
 ### 1.3. Quebra-cabecas
-### 1.4. Mastering Python
+### 1.4. Dominando Python
 ## 2. Atividades Nivel Avancado
 ## 3. Fuxo de Controle
 ## 4. Data Types

@@ -11,4 +11,4 @@
 # Brilha, brilha, estrelinha, 
 #	 Como eu me pergunto o que você é!"
 
-#----- Escreva seu codigo abaixo ----#
+#----- Escreva seu código abaixo ----#
