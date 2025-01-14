@@ -1,6 +1,6 @@
 # Python Exercicios
 ## 1. Atividades Nivel Basico
-### 1.1. Basico Parte I
+### [1.1. Basico Parte I](https://github.com/mendenson/Python-Exercicios/tree/main/1.Nivel_basico/1.1.BasicoParte1)
 ### 1.2. Basico Parte II
 ### 1.3. Quebra-cabecas
 ### 1.4. Dominando Python
